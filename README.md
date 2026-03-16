@@ -70,7 +70,7 @@ By decentralizing the inference layer, the system becomes resistant to central c
 ## Applications
 
 ### Space Exploration
-Deep-space communication latency between Earth and Mars can reach 24 minutes one way. A crew member's Relational Twin — calibrated during pre-mission training — could maintain alignment with their cognitive and psychological baseline during communication blackouts, without requiring Earth intervention. This is the application that most directly motivated the framework's current development. A companion paper, *Mission Chemistry: Sequencing Human Behavioral Signal in Spaceflight*, is available on request.
+Deep-space communication latency between Earth and Mars can reach 24 minutes one way. A crew member's Relational Twin — calibrated during pre-mission training — could maintain alignment with their cognitive and psychological baseline during communication blackouts, without requiring Earth intervention. This is the application that most directly motivated the framework's current development. A companion paper, Mission Chemistry: Sequencing Human Behavioral Signal in Spaceflight, is available on request at smo.jpg@gmail.com
 
 ### Disaster Response and Crisis Medicine
 When infrastructure fails, centralized systems become unavailable when most needed. An edge-native Relational Twin could preserve a responder's triage logic, supply awareness, and coordination continuity locally — without network access.
@@ -105,7 +105,7 @@ A system with deeper individual alignment requires fewer repeated cloud inferenc
 
 ## Research Status
 
-This framework is under active development. A companion paper — *Mission Chemistry: Sequencing Human Behavioral Signal in Spaceflight* — applies Conscience Architecture to long-duration crew support and is available on request.
+This framework is under active development. A companion paper — *Mission Chemistry: Sequencing Human Behavioral Signal in Spaceflight* — applies Conscience Architecture to long-duration crew support and is available on request at smo.jpg@gmail.com.
 
 Documentation is ongoing. Academic preprint forthcoming.
 
