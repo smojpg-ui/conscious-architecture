@@ -41,13 +41,13 @@ A system property in which fidelity to an individual's priorities is preserved a
 The process of isolating meaningful individual intent from the noise introduced by population-level optimization. Conscience Architecture begins here: reducing Inference Noise by modeling the person, not the average.
 
 ### Predictive Maturity
-The threshold at which a system's model of an individual becomes deep enough that its outputs begin to anticipate needs rather than react to commands — and, in multi-system environments, disconnected platforms begin to converge on compatible outputs without shared infrastructure.
+The threshold at which a system's model of an individual becomes deep enough that its outputs begin to anticipate needs rather than react to commands — and, in multi-system environments, disconnected platforms may begin to converge on compatible outputs without shared infrastructure.
 
 ### Authenticity-Signal Coupling (ASC)
 A proposed system property in which output coherence depends on the authenticity of user engagement. When input becomes performative or strategic, model quality degrades. Genuine engagement is not only ethically preferable — it is technically necessary for alignment fidelity.
 
 ### Emergent Signal Coherence (ESC)
-A pattern in which independent systems modeling the same individual at sufficient depth produce compatible or mutually reinforcing outputs without explicit coordination. The result resembles phase alignment emerging from parallel convergence rather than shared infrastructure.
+An observed pattern in which independent systems modeling the same individual at sufficient depth appear to produce compatible or mutually reinforcing outputs without explicit coordination. The result resembles phase alignment emerging from parallel convergence rather than shared infrastructure.
 
 ---
 
@@ -79,7 +79,7 @@ When infrastructure fails, centralized systems become unavailable when most need
 One teacher, thirty students, one lesson. Conscience Architecture proposes a way to extend the teacher's reach without replacing the teacher's judgment. An edge-native system could translate the same lesson into forms calibrated to each learner's cognitive patterns, while keeping student learning profiles on family-controlled hardware — not institutional servers.
 
 ### Energy and Compute Efficiency
-A system with deeper individual alignment requires fewer repeated cloud inference calls to deliver meaningful assistance. Shifting more intelligence to the edge reduces server round-trips and lowers the computational cost per useful interaction.
+A system with deeper individual alignment should require fewer repeated cloud inference calls to deliver meaningful assistance. If the framework's core claim holds, shifting more intelligence to the edge reduces server round-trips and lowers the computational cost per useful interaction. That is the testable prediction.
 
 ---
 
@@ -92,10 +92,10 @@ A system with deeper individual alignment requires fewer repeated cloud inferenc
 | **Authentic Signal** | The meaningful delta between a user's private intent and their outward interaction patterns. |
 | **Conscience Architecture** | A framework for cognitive alignment in ambient systems that prioritizes user sovereignty, signal integrity, and individual-level behavioral modeling. |
 | **Edge-Localized Cognitive Model (ELCM)** | A lightweight edge-native inference process that performs local calibration and keeps the Relational Twin on user-controlled hardware. |
-| **Emergent Signal Coherence (ESC)** | A pattern in which disconnected systems independently modeling the same user begin to produce compatible outputs without explicit shared infrastructure. |
+| **Emergent Signal Coherence (ESC)** | An observed pattern in which disconnected systems independently modeling the same user appear to produce compatible outputs without explicit shared infrastructure. |
 | **Inference Noise** | Prediction error introduced when systems optimize for aggregate populations rather than individual intent. |
 | **Low-Probability Alignment Events (LPAE)** | Instances of cross-platform coherence that appear to exceed ordinary statistical expectation and may indicate deeper model convergence across independent systems. |
-| **Predictive Maturity** | The threshold at which a system's model of a user becomes deep enough that disconnected platforms begin to converge on similar behavioral outputs. |
+| **Predictive Maturity** | The threshold at which a system's model of a user becomes deep enough that disconnected platforms may begin to converge on similar behavioral outputs. |
 | **Relational Twin** | An on-device AI model calibrated to a specific individual's longitudinal behavioral signal — designed to anticipate needs and preserve continuity rather than merely react to commands. |
 | **Signal Distillation** | The process of isolating Authentic Signal from Inference Noise by distinguishing meaningful intent from behavioral residue. |
 | **User-Sovereign Inference Layer** | A privacy-preserving local inference architecture in which personalized modeling remains under the user's control rather than being centralized or institutionally owned. |
