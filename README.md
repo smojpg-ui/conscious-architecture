@@ -49,7 +49,7 @@ Tested via Thompson Sampling simulation (full code and results in `/simulations/
 - **Tier 3 (Mars Transit)**: Mature longitudinal model for high-latency autonomous operations.
 
 ## Citation
-Moore, S. (2026). Conscience Architecture: Theory of Emergent Relational Convergence via Authentic Longitudinal Signal. GitHub repository. https://github.com/yourusername/conscience-architecture
+Moore, S. (2026). Conscience Architecture: Theory of Emergent Relational Convergence via Authentic Longitudinal Signal. GitHub repository. https://github.com/smojpg-ui/conscience-architecture
 
 ## Contact & Collaboration
 The predictions are falsifiable. The Antarctic Tier 1 pathway is achievable now. Collaboration is invited from researchers, data scientists, and mission architects who view sustained authentic human signal as a first-principles scientific object.
