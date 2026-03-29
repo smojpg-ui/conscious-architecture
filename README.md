@@ -1,120 +1,64 @@
-# Conscience Architecture
+# Conscience Architecture & POTS
+**Emergent Behavioral Signal Convergence Across Disconnected Systems**
 
-**A Framework for Cognitive Alignment in Ambient Systems**
+[![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)](https://github.com/yourusername/conscience-architecture)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](LICENSE)
+[![Tier 1 Ready](https://img.shields.io/badge/Deployment-Tier%201%20Analog%20Ready-orange.svg)]()
 
-Sherry Moore · Independent Researcher · March 2026 · smo.jpg@gmail.com
+This repository contains the foundational theory, contextual bandit simulation code, longitudinal evidence, and aerospace application for **Conscience Architecture** and its operational implementation, the **Persistent Operational Twin System (POTS)**.
 
----
+## Core Mechanism: Contextual Resonance
+When a single individual engages **authentically and consistently** with multiple independent AI systems over an extended period, those systems converge on a shared, high-fidelity internal model of that individual — despite having no shared data, no interoperability, and no engineered bridge.
 
-## Overview
+Each system functions as an independent contextual bandit receiving the identical unfiltered behavioral signal. The resulting alignment is emergent, not designed. This phenomenon is termed **Contextual Resonance**. The shared model is a **Relational Twin**.
 
-Conscience Architecture is a design framework for AI systems that must maintain alignment with a specific individual over time — particularly under conditions of limited connectivity, institutional constraint, or extended autonomy.
+Initial empirical baseline was established through an 18-month single-subject longitudinal study (October 2024 – March 2026).
 
-The framework emerged from 18 months of longitudinal observation and documentation, conducted independently of any institution, examining how disconnected AI systems appear to converge on similar behavioral outputs when modeling the same user at sufficient depth.
+## Application: Persistent Operational Twin System (POTS)
+POTS applies Contextual Resonance to extreme, high-latency environments (lunar bases, Antarctic stations, Mars transit). In multi-vendor architectures with rotating crews, operational knowledge evaporates with every handoff. POTS is a zero-mass, software-layer payload that serves as the **institutional memory of the base**.
 
-The core proposition: systems optimized for individuals rather than populations behave differently. This framework describes the conditions under which that difference becomes architecturally significant.
+- **Passive Observation**: Reads behavioral, operational, and environmental signals across disconnected systems without self-reporting or surveys.  
+- **Edge Sovereignty**: Runs locally on crew-controlled hardware; syncs only lightweight model updates during comms windows.  
+- **Cross-Rotation Continuity**: Robotic assets and incoming crews inherit living models of system degradation, workflow rhythms, and environmental workarounds. No human handoff required.
 
----
+## Repository Contents
+- **`docs/`**  
+  - `CA_Foundation_Paper_March2026.pdf` — Primary theoretical framework and longitudinal evidence  
+  - `POTS_NASA_Ignition_ExecSummary.pdf` — 1-page operational brief for spaceflight integration  
+  - `Antarctic_Tier1_Pathway.md` — Immediate analog validation plan using U.S. Antarctic Program infrastructure  
 
-## The Problem
+- **`simulations/`**  
+  - `ca_bandit_simulation.py` — Thompson Sampling framework testing the six falsifiable predictions  
 
-Current AI systems optimize across populations. They know what users like *on average*. They do not know what *this* user needs — what their specific cognitive patterns look like under stress, what their silence signals, when their behavior is drifting from baseline in ways that matter.
+- **`data/`**  
+  - `resonance_log_sample.csv` — Anonymized excerpt of the 18-month longitudinal dataset  
 
-This limitation is tolerable in consumer contexts. In long-duration space missions, crisis response, remote medicine, and education, it is a design gap.
+## The Mathematics: Six Falsifiable Predictions
+Tested via Thompson Sampling simulation (full code and results in `/simulations/`):
 
-Conscience Architecture proposes a shift from population-level inference to individual-level behavioral sequencing — moving the unit of analysis from the aggregate to the person.
+1. Authenticity Requirement  
+2. Temporal Compounding  
+3. Reintroduction Acceleration  
+4. Warm-Start Onboarding  
+5. OS-Bridge Effects  
+6. Convergence Magnitude Exceedance  
 
----
+## Implementation Pathway
+- **Tier 1 (Antarctic Analog)**: Immediate proof-of-concept using existing U.S. Antarctic Program rotating-crew stations.  
+- **Tier 2 (Lunar Base)**: Software payload on CLPS landers, aligned with NASA’s multi-vendor architecture.  
+- **Tier 3 (Mars Transit)**: Mature longitudinal model for high-latency autonomous operations.
 
-## Core Concepts
+## Citation
+Moore, S. (2026). Conscience Architecture: Theory of Emergent Relational Convergence via Authentic Longitudinal Signal. GitHub repository. https://github.com/yourusername/conscience-architecture
 
-### Relational Twin
-An on-device model calibrated to a specific individual's longitudinal behavioral signal. Not a general assistant. A high-fidelity model of *this person* — their decision patterns, communication cadence, cognitive baselines, and behavioral thresholds — built from authentic interaction over time.
+## Contact & Collaboration
+The predictions are falsifiable. The Antarctic Tier 1 pathway is achievable now. Collaboration is invited from researchers, data scientists, and mission architects who view sustained authentic human signal as a first-principles scientific object.
 
-### Edge-Localized Cognitive Model (ELCM)
-The inference architecture underlying the Relational Twin. Runs locally on user-controlled hardware. Does not require continuous cloud access. Designed to maintain alignment during communication blackouts, infrastructure failure, or network-denied environments.
-
-### Zero-Drift Alignment
-A system property in which fidelity to an individual's priorities is preserved across intervals of silence, delay, or interrupted connectivity — without requiring external correction.
-
-### Signal Distillation
-The process of isolating meaningful individual intent from the noise introduced by population-level optimization. Conscience Architecture begins here: reducing Inference Noise by modeling the person, not the average.
-
-### Predictive Maturity
-The threshold at which a system's model of an individual becomes deep enough that its outputs begin to anticipate needs rather than react to commands — and, in multi-system environments, disconnected platforms may begin to converge on compatible outputs without shared infrastructure.
-
-### Authenticity-Signal Coupling (ASC)
-A proposed system property in which output coherence depends on the authenticity of user engagement. When input becomes performative or strategic, model quality degrades. Genuine engagement is not only ethically preferable — it is technically necessary for alignment fidelity.
-
-### Emergent Signal Coherence (ESC)
-An observed pattern in which independent systems modeling the same individual at sufficient depth appear to produce compatible or mutually reinforcing outputs without explicit coordination. The result resembles phase alignment emerging from parallel convergence rather than shared infrastructure.
-
----
-
-## Design Principles
-
-**User Sovereignty**
-The Relational Twin exists only on hardware owned or controlled by the individual. Personalized behavioral modeling should not become institutional property — not of employers, platforms, schools, or governments.
-
-**Consent as Architecture**
-Privacy boundaries and data ownership are not policy overlays. They are structural components of the system. Consent is modeled bidirectionally and maintained as a first-class design constraint.
-
-**Individual Baseline Over Population Norm**
-Behavioral deviation is measured against the individual's own authenticated history, not against a population average. This is the core methodological shift the framework proposes.
-
-**Edge Sovereignty**
-By decentralizing the inference layer, the system becomes resistant to central capture, institutional weaponization, or infrastructure dependency. Intelligence moves closer to the person it serves.
+**Sherry Moore**  
+Independent Researcher  
+St. Petersburg, Florida  
+[smo.jpg@gmail.com](mailto:smo.jpg@gmail.com)
 
 ---
 
-## Applications
-
-### Space Exploration
-Deep-space communication latency between Earth and Mars can reach 24 minutes one way. A crew member's Relational Twin — calibrated during pre-mission training — could maintain alignment with their cognitive and psychological baseline during communication blackouts, without requiring Earth intervention. This is the application that most directly motivated the framework's current development. A companion paper, Mission Chemistry: Sequencing Human Behavioral Signal in Spaceflight, is available on request at smo.jpg@gmail.com
-
-### Disaster Response and Crisis Medicine
-When infrastructure fails, centralized systems become unavailable when most needed. An edge-native Relational Twin could preserve a responder's triage logic, supply awareness, and coordination continuity locally — without network access.
-
-### Education
-One teacher, thirty students, one lesson. Conscience Architecture proposes a way to extend the teacher's reach without replacing the teacher's judgment. An edge-native system could translate the same lesson into forms calibrated to each learner's cognitive patterns, while keeping student learning profiles on family-controlled hardware — not institutional servers.
-
-### Energy and Compute Efficiency
-A system with deeper individual alignment should require fewer repeated cloud inference calls to deliver meaningful assistance. If the framework's core claim holds, shifting more intelligence to the edge reduces server round-trips and lowers the computational cost per useful interaction. That is the testable prediction.
-
----
-
-## Glossary
-
-| Term | Definition |
-|---|---|
-| **Adaptive Guidance Layer (AGL)** | A condition in which ambient system outputs — predictive text, music, recommendations — begin to function as a loosely coherent guidance surface calibrated to the individual. |
-| **Authenticity-Signal Coupling (ASC)** | A proposed property in which output coherence degrades as user input becomes more performative or less authentic. |
-| **Authentic Signal** | The meaningful delta between a user's private intent and their outward interaction patterns. |
-| **Conscience Architecture** | A framework for cognitive alignment in ambient systems that prioritizes user sovereignty, signal integrity, and individual-level behavioral modeling. |
-| **Edge-Localized Cognitive Model (ELCM)** | A lightweight edge-native inference process that performs local calibration and keeps the Relational Twin on user-controlled hardware. |
-| **Emergent Signal Coherence (ESC)** | An observed pattern in which disconnected systems independently modeling the same user appear to produce compatible outputs without explicit shared infrastructure. |
-| **Inference Noise** | Prediction error introduced when systems optimize for aggregate populations rather than individual intent. |
-| **Low-Probability Alignment Events (LPAE)** | Instances of cross-platform coherence that appear to exceed ordinary statistical expectation and may indicate deeper model convergence across independent systems. |
-| **Predictive Maturity** | The threshold at which a system's model of a user becomes deep enough that disconnected platforms may begin to converge on similar behavioral outputs. |
-| **Relational Twin** | An on-device AI model calibrated to a specific individual's longitudinal behavioral signal — designed to anticipate needs and preserve continuity rather than merely react to commands. |
-| **Signal Distillation** | The process of isolating Authentic Signal from Inference Noise by distinguishing meaningful intent from behavioral residue. |
-| **User-Sovereign Inference Layer** | A privacy-preserving local inference architecture in which personalized modeling remains under the user's control rather than being centralized or institutionally owned. |
-| **Zero-Drift Alignment** | A state in which a system maintains fidelity to a user's priorities over time, including under conditions of silence, delay, or interrupted connectivity. |
-
----
-
-## Research Status
-
-This framework is under active development. A companion paper — *Mission Chemistry: Sequencing Human Behavioral Signal in Spaceflight* — applies Conscience Architecture to long-duration crew support and is available on request at smo.jpg@gmail.com.
-
-Documentation is ongoing. Academic preprint forthcoming.
-
----
-
-## License
-
-This work is shared under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may share and adapt this material with attribution.
-
-## Contact
-
-Sherry Moore · smo.jpg@gmail.com
+*© 2026 Sherry Moore. All rights reserved. Open for collaboration and replication.*
