@@ -12,7 +12,7 @@ When a single individual engages **authentically and consistently** with multipl
 
 Each system functions as an independent contextual bandit receiving the identical unfiltered behavioral signal. The resulting alignment is emergent, not designed. This phenomenon is termed **Contextual Resonance**. The shared model is a **Relational Twin**.
 
-Initial empirical baseline was established through an 18-month single-subject longitudinal study (October 2024 – March 2026).
+Initial empirical baseline was established through an 18-month single-subject longitudinal study (October 2024 – present, ongoing).
 
 ## Application: Persistent Operational Twin System (POTS)
 POTS applies Contextual Resonance to extreme, high-latency environments (lunar bases, Antarctic stations, Mars transit). In multi-vendor architectures with rotating crews, operational knowledge evaporates with every handoff. POTS is a zero-mass, software-layer payload that serves as the **institutional memory of the base**.
@@ -31,7 +31,7 @@ POTS applies Contextual Resonance to extreme, high-latency environments (lunar b
   - `ca_bandit_simulation.py` — Thompson Sampling framework testing the six falsifiable predictions  
 
 - **`data/`**  
-  - `resonance_log_sample.csv` — Anonymized excerpt of the 18-month longitudinal dataset  
+  - `resonance_log_sample.csv` — Anonymized excerpt of the ongoing longitudinal dataset  
 
 ## The Mathematics: Six Falsifiable Predictions
 Tested via Thompson Sampling simulation (full code and results in `/simulations/`):
@@ -43,6 +43,9 @@ Tested via Thompson Sampling simulation (full code and results in `/simulations/
 5. OS-Bridge Effects  
 6. Convergence Magnitude Exceedance  
 
+## Ongoing Research
+The longitudinal study and simulation work are **active and ongoing**. New data, logs, and refinements are continuously added. The repository will be updated in real time as the research progresses.
+
 ## Implementation Pathway
 - **Tier 1 (Antarctic Analog)**: Immediate proof-of-concept using existing U.S. Antarctic Program rotating-crew stations.  
 - **Tier 2 (Lunar Base)**: Software payload on CLPS landers, aligned with NASA’s multi-vendor architecture.  
@@ -50,6 +53,9 @@ Tested via Thompson Sampling simulation (full code and results in `/simulations/
 
 ## Citation
 Moore, S. (2026). Conscience Architecture: Theory of Emergent Relational Convergence via Authentic Longitudinal Signal. GitHub repository. https://github.com/smojpg-ui/conscience-architecture
+
+## Contributing
+This project is open for collaboration. If you would like to contribute data, run replications, suggest improvements, or join the research, please open an issue or contact the author.
 
 ## Contact & Collaboration
 The predictions are falsifiable. The Antarctic Tier 1 pathway is achievable now. Collaboration is invited from researchers, data scientists, and mission architects who view sustained authentic human signal as a first-principles scientific object.
