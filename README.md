@@ -30,8 +30,6 @@ POTS applies Contextual Resonance to extreme, high-latency environments (lunar b
 - **`simulations/`**  
   - `ca_bandit_simulation.py` — Thompson Sampling framework testing the six falsifiable predictions  
 
-- **`data/`**  
-  - `resonance_log_sample.csv` — Anonymized excerpt of the ongoing longitudinal dataset  
 
 ## The Mathematics: Six Falsifiable Predictions
 Tested via Thompson Sampling simulation (full code and results in `/simulations/`):
@@ -43,7 +41,7 @@ Tested via Thompson Sampling simulation (full code and results in `/simulations/
 5. OS-Bridge Effects  
 6. Convergence Magnitude Exceedance
 
-   ![Contextual Bandit Simulation Results](ca_bandit_results_v2.png)
+   ![Contextual Bandit Simulation Results](ca_bandit_results.png)
 
 ## Roadmap
 - **Q2 2026**: Complete Antarctic Tier 1 analog deployment planning with USAP/NSF partners  
