@@ -1,4 +1,4 @@
-# Conscience Architecture — Bandit Simulation
+# Consciousness Architecture — Bandit Simulation
 
 This directory contains the Python simulation that tests the **six falsifiable predictions** of Contextual Resonance using Thompson Sampling.
 
