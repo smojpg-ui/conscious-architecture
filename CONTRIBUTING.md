@@ -1,4 +1,4 @@
-# Contributing to Conscience Architecture
+# Contributing to Conscious Architecture
 
 Thank you for considering contributing!
 
