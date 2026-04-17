@@ -1,0 +1,31 @@
+# Data — these must never commit to the public repo
+*.csv
+*.sqlite
+*.db
+/data/
+/logs/
+eve_log*
+spotify_session_log*
+between_the_lines_*
+sherrys_logs_*
+smo_usb_recovered_*
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+.env.*
+
+# Secrets and tokens
+*.pem
+*.key
+credentials.json
